@@ -26,7 +26,7 @@ Tracks the upstream textile journey — knitting, fabric inspection, and dyeing.
 
 ## 🧠 Key Business Insights
 
-A full write-up of findings is available in [`🧵 Textile Operational Insights.pdf`](Textile_Operational_Insights.pdf). Summary below:
+A full write-up of findings is available in [`🧵 Textile Operational Insights.pdf`](🧵 Textile Operational Insights.pdf). Summary below:
 
 ### Textile side (TMS)
 | Area | Finding |
