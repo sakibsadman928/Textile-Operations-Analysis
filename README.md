@@ -26,7 +26,7 @@ Tracks the upstream textile journey — knitting, fabric inspection, and dyeing.
 
 ## 🧠 Key Business Insights
 
-A full write-up of findings is available in [`Textile_Operational_Insights.pdf`](Textile_Operational_Insights.pdf). Summary below:
+A full write-up of findings is available in [`🧵 Textile Operational Insights.pdf`](Textile_Operational_Insights.pdf). Summary below:
 
 ### Textile side (TMS)
 | Area | Finding |
@@ -121,15 +121,6 @@ rmg-textile-analytics/
 - **DAX** — 20+ custom measures for achievement %, efficiency, quality, and yield KPIs
 - **Time intelligence** — `dim_date` drives Year/Month drill-downs and dynamic titles
 - **Interactive filtering** — buttons, slicers, and cross-filtering across visuals (Shade, Factory, Supplier, Product Category, Year)
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Open the `.pbix` file in **Power BI Desktop**, or import the fact/dim `.xlsx` files and rebuild the model using the relationships described above
-3. Paste in the measures from `All_Dax_measures_for_rmg.docx` if rebuilding from scratch
-4. Refresh data and explore the **GMS** and **TMS** report pages
 
 ---
 
